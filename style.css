@@ -919,25 +919,35 @@ body {
     .fourcard1 {
         position: absolute;
         width: 375px;
-        height: 175px;
-        background-color: #01007A;
+        height: 75px;
+        background-color: white;
         top: 195%;
         left: 20%;
         box-shadow: 4px 4px 4px rgba(128, 128, 128, 0.466);
     }
 
-    .fcline1 {
+    #sonuc {
         position: absolute;
-        top: 15%;
-        left: 5%;
+        width: 375px;
+        height: 90px;
+        background-color: white;
+        top: 60px;
+        box-shadow:4px 4px 4px rgba(128, 128, 128, 0.466);
+        z-index: 1;
+        margin-top: 15px;
     }
+
+   .cardprg {
+        top: 75px;
+   }
 
     .fchead {
         position: absolute;
-        top: 12%;
+        top: 27%;
         left: 20%;
-        color: white;
+        color: black;
         font-weight: bolder;
+        font-size: 12px;
     }
     
     .fcp {
@@ -954,10 +964,106 @@ body {
         width: 375px;
         height: 75px;
         background-color: white;
-        top: 213%;
+        top: 203.5%;
         left: 20%;
-        box-shadow: 3px 3px 3px rgba(128, 128, 128, 0.466);
+        box-shadow: 4px 4px 4px rgba(128, 128, 128, 0.466);
     }
+
+    #sonuc1 {
+        position: absolute;
+        width: 375px;
+        height: 90px;
+        background-color: white;
+        top: 60px;
+        box-shadow:4px 4px 4px rgba(128, 128, 128, 0.466);
+        z-index: 1;
+        margin-top: 15px;
+    }
+
+    .fourcard3 {
+        position: absolute;
+        width: 375px;
+        height: 75px;
+        background-color: white;
+        top: 212%;
+        left: 20%;
+        box-shadow: 4px 4px 4px rgba(128, 128, 128, 0.466);
+    }
+
+    #sonuc2 {
+        position: absolute;
+        width: 375px;
+        height: 90px;
+        background-color: white;
+        top: 60px;
+        box-shadow:4px 4px 4px rgba(128, 128, 128, 0.466);
+        z-index: 1;
+        margin-top: 15px;
+    }
+
+    .fourcard4 {
+        position: absolute;
+        width: 375px;
+        height: 75px;
+        background-color: white;
+        top: 212%;
+        left: 55%;
+        box-shadow: 4px 4px 4px rgba(128, 128, 128, 0.466);
+    }
+
+    #sonuc3 {
+        position: absolute;
+        width: 375px;
+        height: 90px;
+        background-color: white;
+        top: 60px;
+        box-shadow:4px 4px 4px rgba(128, 128, 128, 0.466);
+        z-index: 1;
+        margin-top: 15px;
+    }
+
+    .fourcard5 {
+        position: absolute;
+        width: 375px;
+        height: 75px;
+        background-color: white;
+        top: 195%;
+        left: 55%;
+        box-shadow: 4px 4px 4px rgba(128, 128, 128, 0.466);
+    }
+
+    #sonuc4 {
+        position: absolute;
+        width: 375px;
+        height: 90px;
+        background-color: white;
+        top: 60px;
+        box-shadow:4px 4px 4px rgba(128, 128, 128, 0.466);
+        z-index: 1;
+        margin-top: 15px;
+    }
+
+    .fourcard6 {
+        position: absolute;
+        width: 375px;
+        height: 75px;
+        background-color: white;
+        top: 203.5%;
+        left: 55%;
+        box-shadow: 4px 4px 4px rgba(128, 128, 128, 0.466);
+    }
+
+    #sonuc5 {
+        position: absolute;
+        width: 375px;
+        height: 90px;
+        background-color: white;
+        top: 60px;
+        box-shadow:4px 4px 4px rgba(128, 128, 128, 0.466);
+        z-index: 1;
+        margin-top: 15px;
+    }
+    
 
     .plus {
         position: absolute;
@@ -976,35 +1082,7 @@ body {
         font-weight: bold;
     }
 
-    .fourcard3 {
-        position: absolute;
-        width: 375px;
-        height: 75px;
-        background-color: white;
-        top: 195%;
-        left: 54%;
-        box-shadow: 4px 4px 4px rgba(128, 128, 128, 0.466);
-    }
-
-    .fourcard4 {
-        position: absolute;
-        width: 375px;
-        height: 75px;
-        background-color: white;
-        top: 204%;
-        left: 54%;
-        box-shadow: 4px 4px 4px rgba(128, 128, 128, 0.466);
-    }
-
-    .fourcard5 {
-        position: absolute;
-        width: 375px;
-        height: 75px;
-        background-color: white;
-        top: 213%;
-        left: 54%;
-        box-shadow:4px 4px 4px rgba(128, 128, 128, 0.466);
-    }
+    
 
     /* Footer Kısmı */
     .footer {
@@ -2044,26 +2122,35 @@ body {
     .fourcard1 {
         position: absolute;
         width: 375px;
-        height: 175px;
-        background-color: #01007A;
+        height: 75px;
+        background-color: white;
         top: 247%;
-        left: 1.7%;
-        box-shadow: 4px 4px 4px rgba(128, 128, 128, 0.466);;
-        color: azure;
+        left: 2%;
+        box-shadow: 4px 4px 4px rgba(128, 128, 128, 0.466);
     }
 
-    .fcline1 {
+    #sonuc {
         position: absolute;
-        top: 15%;
-        left: 5%;
+        width: 375px;
+        height: 90px;
+        background-color: white;
+        top: 60px;
+        box-shadow:4px 4px 4px rgba(128, 128, 128, 0.466);
+        z-index: 1;
+        margin-top: 15px;
     }
+
+   .cardprg {
+        top: 75px;
+   }
 
     .fchead {
         position: absolute;
-        top: 12%;
+        top: 27%;
         left: 20%;
-        color: white;
+        color: black;
         font-weight: bolder;
+        font-size: 12px;
     }
     
     .fcp {
@@ -2080,10 +2167,89 @@ body {
         width: 375px;
         height: 75px;
         background-color: white;
-        top: 265%;
-        left: 1.7%;
-        box-shadow: 4px 4px 4px rgba(128, 128, 128, 0.466);;
+        top: 256%;
+        left: 2%;
+        box-shadow: 4px 4px 4px rgba(128, 128, 128, 0.466);
     }
+
+    #sonuc1 {
+        position: absolute;
+        width: 375px;
+        height: 90px;
+        background-color: white;
+        top: 60px;
+        box-shadow:4px 4px 4px rgba(128, 128, 128, 0.466);
+        z-index: 1;
+        margin-top: 15px;
+    }
+
+    .fourcard3 {
+        position: absolute;
+        width: 375px;
+        height: 75px;
+        background-color: white;
+        top: 265%;
+        left: 2%;
+        box-shadow: 4px 4px 4px rgba(128, 128, 128, 0.466);
+    }
+
+    #sonuc2 {
+        position: absolute;
+        width: 375px;
+        height: 90px;
+        background-color: white;
+        top: 60px;
+        box-shadow:4px 4px 4px rgba(128, 128, 128, 0.466);
+        z-index: 1;
+        margin-top: 15px;
+    }
+
+    .fourcard4 {
+        position: absolute;
+        width: 375px;
+        height: 75px;
+        background-color: white;
+        top: 274%;
+        left: 2%;
+        box-shadow: 4px 4px 4px rgba(128, 128, 128, 0.466);
+    }
+
+    #sonuc3 {
+        position: absolute;
+        width: 375px;
+        height: 90px;
+        background-color: white;
+        top: 60px;
+        box-shadow:4px 4px 4px rgba(128, 128, 128, 0.466);
+        z-index: 1;
+        margin-top: 15px;
+    }
+
+    .fourcard5 {
+        position: absolute;
+        width: 375px;
+        height: 75px;
+        background-color: white;
+        top: 282%;
+        left: 2%;
+        box-shadow: 4px 4px 4px rgba(128, 128, 128, 0.466);
+    }
+
+    #sonuc4 {
+        position: absolute;
+        width: 375px;
+        height: 90px;
+        background-color: white;
+        top: 60px;
+        box-shadow:4px 4px 4px rgba(128, 128, 128, 0.466);
+        z-index: 1;
+        margin-top: 15px;
+    }
+
+    .fourcard6 {
+        display: none;
+    }
+    
 
     .plus {
         position: absolute;
@@ -2100,30 +2266,6 @@ body {
         color: black;
         font-size: small;
         font-weight: bold;
-    }
-
-    .fourcard3 {
-        display: none;
-    }
-
-    .fourcard4 {
-        position: absolute;
-        width: 375px;
-        height: 75px;
-        background-color: white;
-        top: 274%;
-        left: 1.7%;
-        box-shadow: 4px 4px 4px rgba(128, 128, 128, 0.466);;
-    }
-
-    .fourcard5 {
-        position: absolute;
-        width: 375px;
-        height: 75px;
-        background-color: white;
-        top: 283%;
-        left: 1.5%;
-        box-shadow: 4px 4px 4px rgba(128, 128, 128, 0.466);;
     }
 
     /* Footer */

@@ -8,6 +8,7 @@
 ![Proje Görseli](/screenshots/d5.png)
 ![Proje Görseli](/screenshots/d6.png)
 ![Proje Görseli](/screenshots/d7.png)
+![Proje Görseli](/screenshots/d8.png)
 
 ### Mobil Uyumlu Ekran
 ![Proje Görseli](/screenshots/r1.png)
@@ -17,6 +18,7 @@
 ![Proje Görseli](/screenshots/r5.png)
 ![Proje Görseli](/screenshots/r6.png)
 ![Proje Görseli](/screenshots/r7.png)
+![Proje Görseli](/screenshots/r8.png)
 
 <!-- LİNK -->
 
